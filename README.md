@@ -33,9 +33,12 @@ A Python script to detect **suspicious login attempts** from server logs. This t
 
 1. Clone the repository:
 
+```
 git clone https://github.com/aswath00/Bruteforce-Detector.git
-cd Bruteforce Detector'
-
+cd Bruteforce Detector'git commit
+```
 2. Run the script:
 
+```
 python analyze_logs.py
+```
